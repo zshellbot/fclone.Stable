@@ -13,7 +13,7 @@
 
 - Render ဖွင့်ပြီး free signup လုပ်ပါ။
 - dashboard.render.com ဖွင့်ပြီး new + ကို နှိပ် web service ကို ရွေးပါ
-- Public Git repository နေရာတွင် ယခု repo link ထည့်ပါ။ branch ကို ယခု fclone branch ရွေးပါ
+- Public Git repository နေရာတွင် ယခု repo link ထည့်ပါ။
 - name နေရာ ကြိုက်ရာထားပါ
 - အောက်နားက advanced နှိပ်ပြီး Add Environment Variable ထပ်နှိပ်ပါ
 - key နေရာတွင် CONFIG_FILE_URL ဖြည့်ပါ(စာလုံးပေါင်းမှန်ရမည်)
